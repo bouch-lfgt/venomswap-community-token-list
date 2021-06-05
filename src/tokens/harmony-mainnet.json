@@ -54,5 +54,9 @@
     "name": "Clays Tipping Service",
     "decimals": 18,
     "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/CTS.png"
-  }
-]
+  },
+  {
+     "chainId": 1666600000,
+    "address": "0x5415B30fc46317ef494fa96d755350437aE15ac9",
+    "symbol": "LFGT",
+    "name": "Let's Fucking Go Token",
